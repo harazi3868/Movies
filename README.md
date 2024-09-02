@@ -1,5 +1,5 @@
 <div id="top">
-<h1 align="center">Movies 🎥</h1>
+<h1 align="center">Movies With React 🎥</h1>
   <br>
 ---
 ### 🛠️ Tools and technologies used :
@@ -32,54 +32,38 @@
 ---
 
 
-### Home page
+### Hero
 
 <img src="/src/images/hero.png" alt="Hero"/>
 
-### Sign up page
+### Home page
 
-<img src="/client/src/images/signup.png" alt='signup'/>
+<img src="/src/images/home.png" alt='home'/>
 
-### Sign in page
+### Movies
 
-<img src="/client/src/images/signin.png" alt='signin'/>
+<img src="/src/images/movies.png" alt='movies'/>
 
-### Profile page
+## Comedy
+<img src="/src/images/comedy.png" alt='movies'/>
 
-<img src="/client/src/images/profile.png" alt='profile'/>
+## Cartoons
+<img src="/src/images/cartoons.png" alt='movies'/>
 
-### All Doctors page
+## Romantic
+<img src="/src/images/romantic.png" alt='movies'/>
 
-<img src="/client/src/images/doctors.png" alt='doctors'/>
+## Tranding
+<img src="/src/images/tranding.png" alt='movies'/>
 
-### Apply for doctor page
+## Horror 
+<img src="/src/images/horror.png" alt='movies'/>
 
-<img src="/client/src/images/docapply.png" alt='applyfordoctor'/>
+### Series
+<img src="/src/images/TV.png" alt='Series'/>
 
-### Admin all users dashboard
-
-<img src="/client/src/images/users.png" alt='users'/>
-
-### Admin all applications page
-
-<img src="/client/src/images/applicaions.png" alt='applications'/>
-
-### Book Appointment page
-
-<img src="/client/src/images/bookappointment.png" alt='bookappointment'/>
-
-### Users all appointments page
-
-<img src="/client/src/images/userappointments (2).png" alt='appointments'/>
-
-### Doctors all appointments page
-
-<img src="/client/src/images/doctorappointments.png" alt='appointments'/>
-
-### Notifications page
-
-<img src="/client/src/images/notifications.png" alt='notifications'/>
-
+### Search
+<img src="/src/images/Serch.png" alt='Search'/>
 
 
 ---
